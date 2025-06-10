@@ -12,7 +12,7 @@
     'use strict';
 
     // Change this key to change the keybind (This is a javascript key code!)
-    let toggleKey = "KeyT";
+    let toggleKey = "h";
     // If true you will have god mode while in blink (Note : God Mode is VERRY Buggy and you may still die)
     let godInBlink = true;
     // Debug Mode (Check Console)
